@@ -1,4 +1,1 @@
-  aaa | bbbb
-  :----|:----:
-  hello|sailor
-  next | line
+<center># plop
